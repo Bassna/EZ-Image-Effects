@@ -67,21 +67,21 @@ A simple program to create easy animated effects from an image, and convert them
 ## Screenshots
 
 
+![NVIDIA_Share_yGQPQYGYzt](https://github.com/Bassna/EZ-Image-Effects/assets/33616653/62dc5ad7-5e1e-4cea-a71a-00e44358aa6a)
 
-![NVIDIA_Share_yGQPQYGYzt](https://github.com/Bassna/EZ-Image-Effects/assets/33616653/37d14490-0026-4ac0-a125-1f5156418564)
 
 
 
 **Effects exported into folder as frames**
 
 
-![explorer_q6dEjavV6l](https://github.com/Bassna/EZ-Image-Effects/assets/33616653/a5bc9a77-e1be-4b35-ba29-678e1930eae0)
+![explorer_q6dEjavV6l](https://github.com/Bassna/EZ-Image-Effects/assets/33616653/5dd0fbcc-8c74-405d-8417-cc6214690058)
 
 
 
 **Create simple text images to use**
 
-![NVIDIA_Share_KJKRKp0a0K](https://github.com/Bassna/EZ-Image-Effects/assets/33616653/bfec7cfe-cc55-4b1b-9445-138064171adf)
+![NVIDIA_Share_KJKRKp0a0K](https://github.com/Bassna/EZ-Image-Effects/assets/33616653/b2f23e37-3cda-419d-bc17-d1af2e4da1cb)
 
 
 ## Contributing
