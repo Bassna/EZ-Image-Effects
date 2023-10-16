@@ -1,7 +1,14 @@
 # Ez-Image-Effects
-A simple program to create easy animated effects from an image, and convert them into a set amount of exported frames. 
+
+<p align="center">
+  <img src="https://github.com/Bassna/EZ-Image-Effects/assets/33616653/0b1d198a-0eb6-4d34-898a-8bd348c126c1" alt="FullIco"/>
+</p>
+
+A simple program to create easy animated effects from an image, and convert them into a set amount of exported frames.
+
 
 ## Table of Contents
+
 
 - [Features](#features)
 - [Installation](#installation)
